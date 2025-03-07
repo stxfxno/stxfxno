@@ -12,9 +12,10 @@ Desde pequeño me interesaron las computadoras y como es que funcionaban todos l
 * 🚀  I'm currently working on [Una distancia corta](http://unadistanciacorta.netlify.app/)
 * ⚡  Me gusta aprender un poco de todo, no siempre la programación lo es todo.
 
-### Spotify Playing 🎧
+### 🎵 Spotify Playing
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31oegk5udlaevo32lsnzmqcrjga4)
+[![Spotify](https://novatorem-bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/tu_usuario)
+
 
 ---
 

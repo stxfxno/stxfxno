@@ -12,7 +12,14 @@ Desde pequeño me interesaron las computadoras y como es que funcionaban todos l
 * 🚀  I'm currently working on [Una distancia corta](http://unadistanciacorta.netlify.app/)
 * ⚡  Me gusta aprender un poco de todo, no siempre la programación lo es todo.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31oegk5udlaevo32lsnzmqcrjga4)
+
+---
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+
 
 ### Skills
 

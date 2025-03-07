@@ -12,6 +12,8 @@ Desde pequeño me interesaron las computadoras y como es que funcionaban todos l
 * 🚀  I'm currently working on [Una distancia corta](http://unadistanciacorta.netlify.app/)
 * ⚡  Me gusta aprender un poco de todo, no siempre la programación lo es todo.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
+
 ### Skills
 
 <p align="left">

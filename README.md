@@ -12,15 +12,25 @@ Desde pequeño me interesaron las computadoras y como es que funcionaban todos l
 * 🚀  I'm currently working on [Una distancia corta](http://unadistanciacorta.netlify.app/)
 * ⚡  Me gusta aprender un poco de todo, no siempre la programación lo es todo.
 
-### 🎵 Spotify Playing
+<img src="https://raw.githubusercontent.com/stxfxno/stxfxno/output/snake.svg" alt="Snake animation" />
 
-[![Spotify](https://novatorem-bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/tu_usuario)
+###
 
+<br clear="both">
 
----
+<div align="center">
+  <a href="https://open.spotify.com/user/31oegk5udlaevo32lsnzmqcrjga4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31oegk5udlaevo32lsnzmqcrjga4&count=3&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stxfxno&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stxfxno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=stxfxno&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ### Skills
 

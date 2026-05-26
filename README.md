@@ -94,8 +94,6 @@ Since childhood, I've been fascinated by computers and how programs work. I disc
       <td valign="top" width="33%">
         <h3 align="center">Others</h3>
         <div align="center">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="swagger" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="rest api" />
         </div>

@@ -46,18 +46,9 @@ Software Engineering student at **UPC** (5th year) who designs and builds digita
 ### 📈 GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stxfxno&layout=compact&langs_count=6&hide_border=true&bg_color=0a0a0a&title_color=9b4dff&text_color=f4f1ec&card_width=320" height="160" alt="Top languages" />
   <img src="https://streak-stats.demolab.com?user=stxfxno&hide_border=true&background=0a0a0a&ring=9b4dff&fire=9b4dff&currStreakLabel=9b4dff&sideLabels=f4f1ec&currStreakNum=f4f1ec&sideNums=f4f1ec&dates=c9a3ff&border_radius=6" height="160" alt="Streak stats" />
   <br/><br/>
   <img src="https://raw.githubusercontent.com/stxfxno/stxfxno/output/snake.svg" alt="Snake animation" />
 </div>
-
-<details>
-<summary>🎵 What I'm listening to</summary>
-<br/>
-<a href="https://open.spotify.com/user/31oegk5udlaevo32lsnzmqcrjga4">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31oegk5udlaevo32lsnzmqcrjga4&count=3&unique=false" alt="Spotify recently played" />
-</a>
-</details>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:5b1fbf,100:9b4dff" width="100%" alt="" />

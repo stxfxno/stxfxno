@@ -19,8 +19,8 @@
 
 Software Engineering student at **UPC** (5th year) who designs and builds digital products with character: clean, fast and with a personal touch.
 
-- 💼 **Software Engineer @ [Sprinta AI](https://sprinta.ai/landing)** — AI sales agent for WhatsApp + integrated CRM
-- 🚚 Built operations platforms with **SUNAT**, **Odoo ERP** and GPS fleet integrations
+- 💼 **Software Engineer @ [Eemerson SAC](https://eemersonsac.com)** — building the ops platform for a freight transport company (SUNAT, Odoo ERP & GPS fleet integrations)
+- 🤖 Previously at **[Sprinta AI](https://sprinta.ai/landing)** — AI sales agent for WhatsApp + integrated CRM
 - 🛠️ Freelancing since 2024 for health, logistics and telecom clients
 - 🌎 Spanish (native) · English (advanced)
 
@@ -29,7 +29,7 @@ Software Engineering student at **UPC** (5th year) who designs and builds digita
 | Project | What it is | Stack |
 |:--|:--|:--|
 | **[Sprinta AI](https://sprinta.ai/landing)** | AI agent that sells on WhatsApp, with a built‑in CRM | React · TS · Supabase |
-| **Eemerson SAC Platform** | Freight ops: driver payments, GPS fleet, SUNAT & Odoo sync, OCR | Next.js 14 · Supabase |
+| **[Eemerson SAC](https://eemersonsac.com)** | Freight ops: driver payments, GPS fleet, SUNAT & Odoo sync, OCR | Next.js 14 · Supabase |
 | **BIM Document Management** | 5‑stage approval flow for construction files, offline‑first | React · IndexedDB · Supabase |
 | **Renaceris Platform** | Appointment system for a clinic with 3 locations | React · NestJS · Supabase |
 | **[Compañero Digital 3D](https://companero-digital-3d.vercel.app/)** | Editable 3D room with a voxel avatar showing your status | React Three Fiber |
